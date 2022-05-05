@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="prenom">prenom</string>
+    <string name="nom">nom</string>
+    <string name="adresse">adresse etudiant</string>
+    <string name="ajout_eleve">ajouter un eleve</string>
+    <string name="liste_eleves">liste des eleves</string>
+</resources>
